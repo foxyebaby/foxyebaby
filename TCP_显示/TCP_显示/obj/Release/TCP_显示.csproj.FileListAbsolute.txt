@@ -1,0 +1,11 @@
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\bin\Release\TCP_显示.exe.config
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\bin\Release\TCP_显示.exe
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\bin\Release\TCP_显示.pdb
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.csproj.AssemblyReference.cache
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.csproj.SuggestedBindingRedirects.cache
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.Form1.resources
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.Properties.Resources.resources
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.csproj.GenerateResource.cache
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.csproj.CoreCompileInputs.cache
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.exe
+C:\Users\Foxyebaby\source\repos\TCP_显示\TCP_显示\obj\Release\TCP_显示.pdb
