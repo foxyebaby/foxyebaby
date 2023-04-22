@@ -22,7 +22,7 @@ namespace WindowsFormsApp3
         //192.168.3.129, 1433
         // 123.56.44.177
         // 在类的成员变量中定义连接对象
-        private SqlConnection connection = new SqlConnection("Data Source = 47.92.214.97, 31256; Initial Catalog = MISDB; User ID = sa; Password=Aa`11111;");
+        private SqlConnection connection = new SqlConnection("Data Source = 8.8.8.8; Initial Catalog = MISDB; User ID = sa; Password=888888;");
 
         private bool isRunning = true;
         private Thread thread;
