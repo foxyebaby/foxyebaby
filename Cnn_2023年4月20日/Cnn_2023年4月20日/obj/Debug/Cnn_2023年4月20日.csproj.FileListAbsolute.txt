@@ -1,0 +1,11 @@
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\bin\Debug\Cnn_2023年4月20日.exe.config
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\bin\Debug\Cnn_2023年4月20日.exe
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\bin\Debug\Cnn_2023年4月20日.pdb
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.csproj.AssemblyReference.cache
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.csproj.SuggestedBindingRedirects.cache
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.Form1.resources
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.Properties.Resources.resources
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.csproj.GenerateResource.cache
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.csproj.CoreCompileInputs.cache
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.exe
+C:\Users\Foxyebaby\source\repos\Cnn_2023年4月20日\Cnn_2023年4月20日\obj\Debug\Cnn_2023年4月20日.pdb
